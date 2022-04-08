@@ -1,0 +1,49 @@
+body{
+    background-color:cornsilk;
+}
+#menu
+{
+    text-align: center;
+    border-color: rgb(247, 243, 243);
+}
+#menu a 
+{
+    display: block;
+    color: rgb(250, 17, 17);
+    text-align: center;
+    padding: 50px 10px;
+    margin: 10px 10px 0px 0px;
+    border: 2px solid rgb(27, 21, 21);
+  
+}
+  
+#menu a:hover 
+{
+    background-color: rgb(241, 237, 1);
+}
+
+
+h1
+{
+    text-align: center;
+    text-decoration-line:underline;
+}
+h2
+{
+    color: coral;
+}
+
+fieldset
+{
+    background-color: darkkhaki;
+}
+
+h3
+{
+    text-shadow: dimgrey;
+}
+
+#tabela
+{
+ border: 1px solid black
+}
